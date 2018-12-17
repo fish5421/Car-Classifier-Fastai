@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/python-3.5%2B-green.svg)]()
 
 
-> This is a web application that has been developed using the fastai library and is deployed on heroku
+> This is a web application that has been developed using the fastai library and is deployed on heroku. The application takes thousands of images from the VMMRdb dataset and classifies to the make and model level of vehicles between 1990 and 2012. There are just under 400 different categories of vehicles and the model sports a 91% accuracy level trained on a GTX 1060i GPU. 
 
 ------------------
 
