@@ -12,13 +12,13 @@
 Demo:
 
 <p align="center">
-  <img src="Screen_shot_before.png" height="500" width="600px"  alt="">
+  <img src="Screen_shot_before.png" height="400px" width="600px"  alt="">
 </p>
 
 ------------------
 
 <p align="center">
-  <img src="Screen_shot_after.png" height = "500px" width="600px" alt="">
+  <img src="Screen_shot_after.png" height = "400px" width="600px" alt="">
 </p>
 
 ------------------
