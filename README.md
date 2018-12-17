@@ -1,10 +1,10 @@
 
-# Deploy water classifier using flask on heroku
+# Deploy vehicle classifier using flask on heroku
 
 [![](https://img.shields.io/badge/python-3.5%2B-green.svg)]()
 
 
-> A web app to predict whether water is clean or dirty using fastai library.
+> This is a web application that has been developed using the fastai library and is deployed on heroku
 
 ------------------
 
@@ -12,11 +12,11 @@
 Demo:
 
 <p align="center">
-  <img src="screenshot1.png" width="600px" alt="">
+  <img src="screen_shot_before.png" width="600px" alt="">
 </p>
 
 <p align="center">
-  <img src="screenshot2.png" width="600px" alt="">
+  <img src="screenshot_shot_after.png" width="600px" alt="">
 </p>
 
 ------------------
@@ -73,6 +73,8 @@ Modify files in `templates` and `static` directory.
 
 
 ## Future Roadmap
+- Create a custom domain name
+- Use SSL certs
 - Add unit test.
 - Add CI/CD integration.
 - Create a robust image classifier using the more data or using some advance technique.
