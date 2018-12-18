@@ -69,17 +69,8 @@ Modify files in `templates` and `static` directory.
 
 - Once you are done, you will see the link to check your app on browser like this https://water-classifier1.herokuapp.com/
 
-> Note: If App is showing Application error then refresh the browser,It will work fine.
+> Note: If App is showing Application error then refresh the browser, It will work fine.
 
 
-
-
-## Future Roadmap
-- Create a custom domain name
-- Use SSL certs
-- Add unit test.
-- Add CI/CD integration.
-- Create a robust image classifier using the more data or using some advance technique.
-- Adding celery and redis as a message brocker to handle the long task.
 
 
